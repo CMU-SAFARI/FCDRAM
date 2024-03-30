@@ -1,0 +1,9 @@
+*.o
+*-exe
+*.txt
+*.csv
+*.bin
+*.png
+*__pycache__/*
+*.vscode
+*.asm

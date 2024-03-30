@@ -1,0 +1,6 @@
+*.o
+*-exe
+*.ipynb
+*.txt
+*.csv
+__pycache__/

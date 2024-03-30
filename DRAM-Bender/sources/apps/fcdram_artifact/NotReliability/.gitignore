@@ -1,0 +1,10 @@
+*.o
+*-exe
+*.txt
+*.csv
+*.bin
+*.png
+*.ipynb
+*__pycache__/*
+*cell_out_*
+*row_out_*
